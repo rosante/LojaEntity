@@ -1,0 +1,10 @@
+C:\Projetos\LojaEF\obj\Debug\netcoreapp2.0\LojaEF.csproj.CoreCompileInputs.cache
+C:\Projetos\LojaEF\obj\Debug\netcoreapp2.0\LojaEF.AssemblyInfoInputs.cache
+C:\Projetos\LojaEF\obj\Debug\netcoreapp2.0\LojaEF.AssemblyInfo.cs
+C:\Projetos\LojaEF\bin\Debug\netcoreapp2.0\LojaEF.deps.json
+C:\Projetos\LojaEF\bin\Debug\netcoreapp2.0\LojaEF.runtimeconfig.json
+C:\Projetos\LojaEF\bin\Debug\netcoreapp2.0\LojaEF.runtimeconfig.dev.json
+C:\Projetos\LojaEF\bin\Debug\netcoreapp2.0\LojaEF.dll
+C:\Projetos\LojaEF\bin\Debug\netcoreapp2.0\LojaEF.pdb
+C:\Projetos\LojaEF\obj\Debug\netcoreapp2.0\LojaEF.dll
+C:\Projetos\LojaEF\obj\Debug\netcoreapp2.0\LojaEF.pdb
