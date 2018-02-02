@@ -25,6 +25,7 @@ create table Pedido (
     quantidade int not null,
     dataCadastro datetime default GetDate()
 )
+
 select * from Produto
 select * from Cliente
 select * from Pedido

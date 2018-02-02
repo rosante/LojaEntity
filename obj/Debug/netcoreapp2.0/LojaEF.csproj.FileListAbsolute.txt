@@ -8,3 +8,4 @@ C:\Projetos\LojaEF\bin\Debug\netcoreapp2.0\LojaEF.dll
 C:\Projetos\LojaEF\bin\Debug\netcoreapp2.0\LojaEF.pdb
 C:\Projetos\LojaEF\obj\Debug\netcoreapp2.0\LojaEF.dll
 C:\Projetos\LojaEF\obj\Debug\netcoreapp2.0\LojaEF.pdb
+C:\Projetos\LojaEF\bin\Debug\netcoreapp2.0\LojaEF.xml
